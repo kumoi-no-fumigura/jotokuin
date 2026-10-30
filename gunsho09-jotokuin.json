@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/jotokuin",
  "yomi": "じょうとくいんどのぎょしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "室町後期",
+  "author": "足利義尚（1465〜1489）",
+  "desc": "将軍足利義尚（常徳院）の家集。文明13年（1481）以降の月次会や歌合などで詠んだ歌を年月を追って収める。"
+ },
  "editions": [
   {
    "pid": "1879517",
@@ -3702,6 +3707,6 @@
   "poems": 324,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
